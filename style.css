@@ -1,0 +1,66 @@
+.body{
+    margin: 0%;
+    padding: auto;
+    background-color: #042550;
+}
+
+header, nav, section, article, aside, footer{
+    padding: 10px;
+    margin: 10px;
+    background-color: #042550
+}
+header{
+    background-color: #042550;
+    color: white;
+    text-align: center;
+}
+nav a{
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+nav{
+    background-color: #042550;
+    display: flex;
+}
+
+.bloque1{
+    display: flex;
+}
+
+section{
+    width: 70%;
+}
+
+aside{
+    width: 30%;
+}
+
+.articulo1{
+    background-color: #042550;
+    color: white;
+}
+
+.articulo2{
+    background-color: #042550;
+    color: white;
+}
+
+.boton{
+    background-color: #042550;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.imagenes{
+    width: 30%;
+    height:auto;
+    margin: auto;
+}
+
+footer{
+    color: white;
+    text-align: center
+}
