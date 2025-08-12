@@ -9,6 +9,9 @@ header, nav, section, article, aside, footer{
     margin: 10px;
     background-color: #042550
 }
+.aside{
+
+}
 header{
     background-color: #042550;
     color: white;
